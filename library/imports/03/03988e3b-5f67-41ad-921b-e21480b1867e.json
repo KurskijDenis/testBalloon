@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "balloon22",
+    "texture": "c9cd80b5-7c83-4418-afac-12352e95a2f5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      90,
+      107
+    ],
+    "offset": [
+      0,
+      6.5
+    ],
+    "originalSize": [
+      90,
+      120
+    ]
+  }
+}

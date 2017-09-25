@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "BalloonAnim1",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.2833333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "df239d0d-14eb-48f8-a615-d4b64142b472"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "6b935b69-a7ef-4430-b338-948cc998b14b"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "5ed18f5d-af78-49ae-81cc-8c54cb2b34ef"
+            }
+          },
+          {
+            "frame": 0.15,
+            "value": {
+              "__uuid__": "f76e8ebf-6df3-4657-a68b-3a1476adce6f"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "a63a0767-d4f0-4087-b274-2a7541dd4ace"
+            }
+          },
+          {
+            "frame": 0.26666666666666666,
+            "value": {
+              "__uuid__": "11a247ff-b9e1-444f-b716-7ee553bf9424"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
